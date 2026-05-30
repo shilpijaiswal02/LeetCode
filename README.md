@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shilpijaiswal02/LeetCode/tree/master/0283-move-zeroes) |
 | [0454-4sum-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/0454-4sum-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shilpijaiswal02/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shilpijaiswal02/LeetCode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/0148-sort-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shilpijaiswal02/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Merge Sort
 |  |
 | ------- |
