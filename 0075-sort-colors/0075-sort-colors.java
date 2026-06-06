@@ -1,6 +1,6 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int zero=0;
+        /*int zero=0;
         int one=0;
         int two=0;
 
@@ -23,8 +23,8 @@ class Solution {
         }
         for(int k=one+zero;k<one+zero+two;k++){
             nums[k]=2;
-        }
-     /*int low=0;
+        }*/
+     int low=0;
      int mid=0;
      int high=nums.length-1;
      while(mid<=high){
@@ -40,14 +40,14 @@ class Solution {
         else if(nums[mid]==1){
             mid++;
         }
-        else if(nums[mid]==2){
+        else{
             int temp=nums[mid];
             nums[mid]=nums[high];
             nums[high]=temp;
             high--;
         }
-     } */
-     System.out.println(Arrays.toString(nums));
+     } 
+    // System.out.println(Arrays.toString(nums));
        
     }
 }
