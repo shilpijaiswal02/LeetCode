@@ -18,15 +18,11 @@ class Solution {
                     resSum=diff;
                     Sum=sum;
                 }
-               if(sum==target){
-                j++;
-                k--;
-               }
-               else if(sum<target){
+               if(sum<target){
                 j++;
                
                }
-               else if(sum>target){
+               else{
                    k--;
                 }
                }
