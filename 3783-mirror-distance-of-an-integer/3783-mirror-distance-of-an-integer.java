@@ -1,8 +1,7 @@
 class Solution {
     public int mirrorDistance(int n) {
         int num=n;
-        String s= Integer.toString(n);
-        StringBuilder sb= new StringBuilder(s);
+        StringBuilder sb= new StringBuilder(String.valueOf(n));
         sb.reverse();
        
         int mirrorNum=Integer.parseInt(sb.toString());
