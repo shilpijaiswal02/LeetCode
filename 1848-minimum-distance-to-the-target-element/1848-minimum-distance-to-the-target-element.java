@@ -5,8 +5,7 @@ class Solution {
     
         for(int i=0;i<nums.length;i++){
             if(nums[i]==target){
-                index=i;
-               res=Math.min(res, Math.abs(index-start));
+               res=Math.min(res, Math.abs(i-start));
             }
         }
 
