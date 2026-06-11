@@ -3,16 +3,18 @@ class Solution {
         List<List<Integer>> list= new ArrayList<>();
         Set<Integer> list1= new HashSet<>();
         Set<Integer> list2= new HashSet<>();
+        
 
+         for(int  i: nums1){
+            list1.add(i);
+        }
+         for(int j: nums2){
+            list2.add(j);
+        }
         List<Integer> list3= new ArrayList<>();
         List<Integer> list4= new ArrayList<>();
 
-        for(int i=0;i<nums1.length;i++){
-            list1.add(nums1[i]);
-        }
-         for(int i=0;i<nums2.length;i++){
-            list2.add(nums2[i]);
-        }
+       
         
         for(int num:list1){
             if(!list2.contains(num)){
