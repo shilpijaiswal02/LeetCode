@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/shilpijaiswal02/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shilpijaiswal02/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3945-digit-frequency-score](https://github.com/shilpijaiswal02/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0002-add-two-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shilpijaiswal02/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/shilpijaiswal02/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
