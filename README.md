@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shilpijaiswal02/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shilpijaiswal02/LeetCode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/shilpijaiswal02/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [3612-process-string-with-special-operations-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
