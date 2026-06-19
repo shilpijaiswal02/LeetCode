@@ -8,13 +8,8 @@ class Solution {
 
       } 
     
-      for(int num:list){
-        if(num>max){
-            max=num;
-        }
-      }
 
-      return max;
+      return Collections.max(list);
 
     }
 }
