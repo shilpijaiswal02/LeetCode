@@ -15,13 +15,13 @@ class Solution {
                 j--;
                 continue;
             }
-            if(Character.isLetter(sb.charAt(i))&& Character.isLetter(sb.charAt(j))){
+           
                char temp= sb.charAt(i);
                sb.setCharAt(i, sb.charAt(j));
                sb.setCharAt(j, temp);
                i++;
                j--;
-            }
+            
 
         }
         return sb.toString();
