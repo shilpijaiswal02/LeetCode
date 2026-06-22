@@ -5,14 +5,12 @@ class Solution {
        int j=i+1;
        int repeated=0;
        while(i<j){
-        if(nums[i]!=nums[j]){
-            i++;
-            j++;
-            continue;
-        }else {
+        if(nums[i]==nums[j]){
             repeated=nums[i];
             break;
         }
+        i++;
+        j++;
        }
        return repeated;
        
