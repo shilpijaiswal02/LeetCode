@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shilpijaiswal02/LeetCode/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/0202-happy-number) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shilpijaiswal02/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
