@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/shilpijaiswal02/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/shilpijaiswal02/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
@@ -228,5 +230,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
