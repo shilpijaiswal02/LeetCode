@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3884-first-matching-character-from-both-ends](https://github.com/shilpijaiswal02/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/shilpijaiswal02/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
 | ------- |
