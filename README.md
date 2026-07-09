@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shilpijaiswal02/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shilpijaiswal02/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shilpijaiswal02/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shilpijaiswal02/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/shilpijaiswal02/LeetCode/tree/master/2465-number-of-distinct-averages) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/shilpijaiswal02/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2465-number-of-distinct-averages](https://github.com/shilpijaiswal02/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shilpijaiswal02/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/shilpijaiswal02/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/shilpijaiswal02/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
