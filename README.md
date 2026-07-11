@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/shilpijaiswal02/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3794-reverse-string-prefix](https://github.com/shilpijaiswal02/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/shilpijaiswal02/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/shilpijaiswal02/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3794-reverse-string-prefix](https://github.com/shilpijaiswal02/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/shilpijaiswal02/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
