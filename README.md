@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shilpijaiswal02/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/shilpijaiswal02/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shilpijaiswal02/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shilpijaiswal02/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/0454-4sum-ii) |
 | [0645-set-mismatch](https://github.com/shilpijaiswal02/LeetCode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/shilpijaiswal02/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shilpijaiswal02/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shilpijaiswal02/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/shilpijaiswal02/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shilpijaiswal02/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shilpijaiswal02/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
