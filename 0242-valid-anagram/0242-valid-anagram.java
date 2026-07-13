@@ -1,6 +1,6 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if(s.length()!=t.length()){
+      /*  if(s.length()!=t.length()){
             return false;
         }
         HashMap<Character,Integer> map= new HashMap<>();
@@ -13,6 +13,24 @@ class Solution {
                 return false;
             }
         }
+        return true;
+        */
+        if(s.length()!=t.length()){
+            return false;
+        }
+        int[] num= new int[26];
+        for(int i=0;i<s.length();i++){
+            char ch= s.charAt(i);
+             num[ch-'a']++;
+        }
+        for(int i=0;i<t.length();i++){
+            char ch= t.charAt(i);
+             num[ch-'a']--;
+        }
+         for(int i=0;i<num.length;i++){
+            if(num[i]!=0)return false;
+         }
+
         return true;
     }
 }
