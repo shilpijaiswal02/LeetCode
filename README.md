@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shilpijaiswal02/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/shilpijaiswal02/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shilpijaiswal02/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/0202-happy-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shilpijaiswal02/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shilpijaiswal02/LeetCode/tree/master/0191-number-of-1-bits) |
