@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/shilpijaiswal02/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shilpijaiswal02/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shilpijaiswal02/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shilpijaiswal02/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shilpijaiswal02/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2465-number-of-distinct-averages](https://github.com/shilpijaiswal02/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shilpijaiswal02/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shilpijaiswal02/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
