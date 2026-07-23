@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shilpijaiswal02/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shilpijaiswal02/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/shilpijaiswal02/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/shilpijaiswal02/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shilpijaiswal02/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shilpijaiswal02/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/shilpijaiswal02/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shilpijaiswal02/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/shilpijaiswal02/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3945-digit-frequency-score](https://github.com/shilpijaiswal02/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shilpijaiswal02/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/shilpijaiswal02/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
