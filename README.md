@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shilpijaiswal02/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2465-number-of-distinct-averages](https://github.com/shilpijaiswal02/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shilpijaiswal02/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/shilpijaiswal02/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shilpijaiswal02/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/shilpijaiswal02/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shilpijaiswal02/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
