@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/0454-4sum-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/shilpijaiswal02/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shilpijaiswal02/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shilpijaiswal02/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shilpijaiswal02/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shilpijaiswal02/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shilpijaiswal02/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shilpijaiswal02/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
