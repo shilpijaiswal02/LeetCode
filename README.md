@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2465-number-of-distinct-averages](https://github.com/shilpijaiswal02/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/shilpijaiswal02/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shilpijaiswal02/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
