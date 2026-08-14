@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/shilpijaiswal02/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -356,4 +357,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/shilpijaiswal02/LeetCode/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/shilpijaiswal02/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/shilpijaiswal02/LeetCode/tree/master/0584-find-customer-referee) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/shilpijaiswal02/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/shilpijaiswal02/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/shilpijaiswal02/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
