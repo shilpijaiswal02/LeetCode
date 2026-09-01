@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shilpijaiswal02/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shilpijaiswal02/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/shilpijaiswal02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shilpijaiswal02/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shilpijaiswal02/LeetCode/tree/master/0125-valid-palindrome) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shilpijaiswal02/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/shilpijaiswal02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/shilpijaiswal02/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/shilpijaiswal02/LeetCode/tree/master/0392-is-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -408,4 +410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shilpijaiswal02/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shilpijaiswal02/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shilpijaiswal02/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
