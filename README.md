@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/shilpijaiswal02/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/shilpijaiswal02/LeetCode/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/shilpijaiswal02/LeetCode/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/shilpijaiswal02/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Tree
 |  |
 | ------- |
