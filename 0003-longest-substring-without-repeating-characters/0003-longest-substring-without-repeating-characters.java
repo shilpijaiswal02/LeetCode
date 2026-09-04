@@ -2,26 +2,19 @@ import java.util.HashMap;
 
 class Solution {
     public int lengthOfLongestSubstring(String s) {
+       HashSet<Character> set =new HashSet<>();
+       int left =0;
+       int max=0;
+       for(int right=0;right<s.length();right++){
+        while(set.contains(s.charAt(right))){
+             set.remove(s.charAt(left));
+             left++;
+         }
+         set.add(s.charAt(right));
 
-        HashMap<Character, Integer> map = new HashMap<>();
-
-        int left = 0;
-        int maxLength = 0;
-
-        for (int right = 0; right < s.length(); right++) {
-
-            char ch = s.charAt(right);
-
-            // If character already exists in current window
-            if (map.containsKey(ch) && map.get(ch) >= left) {
-                left = map.get(ch) + 1;
-            }
-
-            map.put(ch, right);
-
-            maxLength = Math.max(maxLength, right - left + 1);
-        }
-
-        return maxLength;
+         max = Math.max(max,right-left+1);
+       }
+      
+     return max;
     }
 }
