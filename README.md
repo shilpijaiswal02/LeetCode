@@ -434,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shilpijaiswal02/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
