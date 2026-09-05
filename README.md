@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shilpijaiswal02/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shilpijaiswal02/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shilpijaiswal02/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shilpijaiswal02/LeetCode/tree/master/0067-add-binary) |
 | [2109-adding-spaces-to-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shilpijaiswal02/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Floyd's Cycle Finding Algorithm
