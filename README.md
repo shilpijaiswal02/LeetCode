@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/shilpijaiswal02/LeetCode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/shilpijaiswal02/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/shilpijaiswal02/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shilpijaiswal02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/shilpijaiswal02/LeetCode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shilpijaiswal02/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
