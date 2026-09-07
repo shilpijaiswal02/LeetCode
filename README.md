@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/shilpijaiswal02/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shilpijaiswal02/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shilpijaiswal02/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/shilpijaiswal02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2465-number-of-distinct-averages](https://github.com/shilpijaiswal02/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3945-digit-frequency-score](https://github.com/shilpijaiswal02/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/shilpijaiswal02/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/shilpijaiswal02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shilpijaiswal02/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shilpijaiswal02/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/shilpijaiswal02/LeetCode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/shilpijaiswal02/LeetCode/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/shilpijaiswal02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/shilpijaiswal02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
