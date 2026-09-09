@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shilpijaiswal02/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shilpijaiswal02/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shilpijaiswal02/LeetCode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/shilpijaiswal02/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shilpijaiswal02/LeetCode/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0867-transpose-matrix) |
 | [2109-adding-spaces-to-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/shilpijaiswal02/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shilpijaiswal02/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0867-transpose-matrix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
