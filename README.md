@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/shilpijaiswal02/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shilpijaiswal02/LeetCode/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/shilpijaiswal02/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shilpijaiswal02/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/0796-rotate-string) |
