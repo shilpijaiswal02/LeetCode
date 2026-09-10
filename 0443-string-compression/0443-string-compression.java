@@ -1,31 +1,54 @@
+/*class Solution {
+    public int compress(char[] chars) {
+      LinkedHashMap<Character,Integer> map = new LinkedHashMap<>();
+      for(int i=0;i<chars.length;i++){
+        map.put(chars[i],map.getOrDefault(chars[i],0)+1);
+      }
+      StringBuilder sb = new StringBuilder();
+      for(Map.Entry<Character,Integer> entry: map.entrySet()){
+         char ch =entry.getKey();
+          int key=entry.getValue();
+            sb.append(ch);
+          if(key>1){
+              
+               sb.append(key);
+          }
+       
+      }
+      for(int i=0;i<sb.length();i++){
+        chars[i]=sb.charAt(i);
+      }
+    return sb.length();
+    
+    }
+}*/
 class Solution {
     public int compress(char[] chars) {
 
-        int write = 0;
+        int index = 0;
+        int i = 0;
 
-        for (int i = 0; i < chars.length; ) {
+        while (i < chars.length) {
 
-            int count = 1;
-            int j = i + 1;
+            char ch = chars[i];
+            int count = 0;
 
-            while (j < chars.length && chars[i] == chars[j]) {
+            while (i < chars.length && chars[i] == ch) {
                 count++;
-                j++;
+                i++;
             }
 
-            chars[write++] = chars[i];
+            chars[index++] = ch;
 
             if (count > 1) {
-                String s = String.valueOf(count);
+                String num = String.valueOf(count);
 
-                for (int k = 0; k < s.length(); k++) {
-                    chars[write++] = s.charAt(k);
+                for (char c : num.toCharArray()) {
+                    chars[index++] = c;
                 }
             }
-
-            i = j; // skip processed characters
         }
 
-        return write;
+        return index;
     }
 }
