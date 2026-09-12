@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shilpijaiswal02/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2469-convert-the-temperature](https://github.com/shilpijaiswal02/LeetCode/tree/master/2469-convert-the-temperature) |
 | [3536-maximum-product-of-two-digits](https://github.com/shilpijaiswal02/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shilpijaiswal02/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shilpijaiswal02/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
