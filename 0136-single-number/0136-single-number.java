@@ -1,7 +1,11 @@
 class Solution {
     public int singleNumber(int[] nums) {
         int single=0;
-     HashMap<Integer,Integer> map= new HashMap<>();
+        for(int num:nums){
+            single=single^num;
+            
+        }
+    /* HashMap<Integer,Integer> map= new HashMap<>();
      for(int i=0;i<nums.length;i++){
         map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
      }
@@ -9,7 +13,10 @@ class Solution {
     if(entry.getValue() == 1){
         single = entry.getKey();
     }
-}
+}*/
 return single;
     }
 }
+
+
+/////need to solve using Xor rember to solve it 
