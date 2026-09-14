@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/shilpijaiswal02/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shilpijaiswal02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shilpijaiswal02/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shilpijaiswal02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shilpijaiswal02/LeetCode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/shilpijaiswal02/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shilpijaiswal02/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/shilpijaiswal02/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/shilpijaiswal02/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shilpijaiswal02/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
