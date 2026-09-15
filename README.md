@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/shilpijaiswal02/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/shilpijaiswal02/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/shilpijaiswal02/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shilpijaiswal02/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shilpijaiswal02/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
