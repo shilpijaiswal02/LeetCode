@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shilpijaiswal02/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shilpijaiswal02/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shilpijaiswal02/LeetCode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shilpijaiswal02/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/0202-happy-number) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shilpijaiswal02/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shilpijaiswal02/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/shilpijaiswal02/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/shilpijaiswal02/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/shilpijaiswal02/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/0344-reverse-string) |
