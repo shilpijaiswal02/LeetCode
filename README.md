@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shilpijaiswal02/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shilpijaiswal02/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/shilpijaiswal02/LeetCode/tree/master/2465-number-of-distinct-averages) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/shilpijaiswal02/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/shilpijaiswal02/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shilpijaiswal02/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shilpijaiswal02/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/shilpijaiswal02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2465-number-of-distinct-averages](https://github.com/shilpijaiswal02/LeetCode/tree/master/2465-number-of-distinct-averages) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shilpijaiswal02/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/shilpijaiswal02/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
