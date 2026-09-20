@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/shilpijaiswal02/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/shilpijaiswal02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2465-number-of-distinct-averages](https://github.com/shilpijaiswal02/LeetCode/tree/master/2465-number-of-distinct-averages) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3945-digit-frequency-score](https://github.com/shilpijaiswal02/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Linked List
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/shilpijaiswal02/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/shilpijaiswal02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shilpijaiswal02/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/shilpijaiswal02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shilpijaiswal02/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/shilpijaiswal02/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/shilpijaiswal02/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
