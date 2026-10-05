@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shilpijaiswal02/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/shilpijaiswal02/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shilpijaiswal02/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/shilpijaiswal02/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shilpijaiswal02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shilpijaiswal02/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/shilpijaiswal02/LeetCode/tree/master/0066-plus-one) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shilpijaiswal02/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/shilpijaiswal02/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/shilpijaiswal02/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shilpijaiswal02/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shilpijaiswal02/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shilpijaiswal02/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shilpijaiswal02/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shilpijaiswal02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shilpijaiswal02/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/shilpijaiswal02/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shilpijaiswal02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shilpijaiswal02/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/shilpijaiswal02/LeetCode/tree/master/0152-maximum-product-subarray) |
